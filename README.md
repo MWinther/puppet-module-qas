@@ -1,4 +1,4 @@
 puppet-module-qas
 =================
 
-Deprecated, stored here while merging to proper module
+Puppet module to manage Quest Authentication Services
